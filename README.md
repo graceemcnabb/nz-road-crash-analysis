@@ -4,10 +4,10 @@
 A PowerBI dashboard analysisng 20 years of NZ crash data using Waka Kotahi Crash Analysis System (CAS) dataset. Buult to identify crash hotspots, contributing factors, and severity patterns across NZ regions.
 
 ## Dashboard Preview
-![Executive Summary](screenshots/executive-summary.png)
-![Crash Map](screenshots/crash-map.png)
-![Contributing Factors](screenshots/contributing-factors.png)
-![Road Environment](screenshots/road-environment.png)
+![Executive Summary](Pictures/Screenshots/executive-summary.png)
+![Crash Map](Pictures/Screenshots/crash-map.png)
+![Contributing Factors](Pictures/Screenshots/contributing-factors.png)
+![Road Environment](Pictures/Screenshots/road-environment.png)
 
 ## Dashboard Pages
 - **Executive Summary** : KPIs, crash trends by year and region

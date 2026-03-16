@@ -24,3 +24,6 @@ A PowerBI dashboard analysisng 20 years of NZ crash data using Waka Kotahi Crash
 
 ## Data Source
 [Waka Kotahi Crash Analysis System]([https://www.nzta.govt.nz/safety/safety-resources/road-safety-information-and-tools/crash-analysis-system/)](https://opendata-nzta.opendata.arcgis.com/search?tags=crashes)
+
+## Case Study
+[Read the full case study](case-study-nz-crash-project.pdf)

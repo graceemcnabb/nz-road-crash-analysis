@@ -23,4 +23,4 @@ A PowerBI dashboard analysisng 20 years of NZ crash data using Waka Kotahi Crash
 - Waka Kotahi CAS dataset (NZTM2000 coordinate conversion)
 
 ## Data Source
-[Waka Kotahi Crash Analysis System](https://www.nzta.govt.nz/safety/safety-resources/road-safety-information-and-tools/crash-analysis-system/)
+[Waka Kotahi Crash Analysis System]([https://www.nzta.govt.nz/safety/safety-resources/road-safety-information-and-tools/crash-analysis-system/)](https://opendata-nzta.opendata.arcgis.com/search?tags=crashes)
